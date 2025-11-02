@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e3fccfba2bfc9a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4197ea8ecf60bb42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69355aa540d60c4c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c468a36835ea446",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3805f085e9d9469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec604b4a157673c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0f6607abaf34331",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9345c0762b2b0f3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c5ecef15118f50bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f662963707086d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baef3912f0c4d547",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "54a68856781ce0b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cce769a64401021c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4a86a0211aa8a16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "69355aa540d60c4c",
+  "lastOpenFiles": [
+    "📚 Concepts/setInterval (JavaScript).md",
+    "Questions/React re-renders components when state changes.md",
+    "📚 Concepts/Re-render.md",
+    "Questions/Data equals State in React.md",
+    "Questions/What we should do in Front-End.md",
+    "Questions/Why do we avoid Vanilla JavaScript in large projects.md",
+    "Questions/How React handles the DOM compared to Vanilla JavaScript.md",
+    "📚 Concepts/State.md",
+    "📚 Concepts/Props.md",
+    "📚 Concepts/Component.md",
+    "📚 Concepts/Child Component.md",
+    "Questions",
+    "💡 Learnings/01 - First React App (CodeSandbox).md",
+    "💡 Learnings/Ultimate React Course Overview.md",
+    "Templates/React Learning Template.md",
+    "Invalid date.md",
+    "Templates",
+    "🧩 Templates/t.md",
+    "🧩 Templates",
+    "📚 Concepts",
+    "🐞 Bugs & Fixes",
+    "🧠 Patterns",
+    "🧩 Snippets",
+    "💡 Learnings",
+    "🧪 Projects"
+  ]
+}
