@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69355aa540d60c4c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "7491c8e3b03da180",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Why-Do-Front-End-Frameworks-Exist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Why-Do-Front-End-Frameworks-Exist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,11 +112,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Why-Do-Front-End-Frameworks-Exist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Why-Do-Front-End-Frameworks-Exist"
+            }
+          },
+          {
+            "id": "69355aa540d60c4c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -153,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Why-Do-Front-End-Frameworks-Exist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Why-Do-Front-End-Frameworks-Exist"
             }
           },
           {
@@ -172,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,6 +193,19 @@
   },
   "active": "7491c8e3b03da180",
   "lastOpenFiles": [
+    "Questions/README.md",
+    "Why-Do-Front-End-Frameworks-Exist.md",
+    "Lectures/001-course-intro.md",
+    "Questions/React/What we should do in Front-End.md",
+    "Questions/React/Why do we avoid Vanilla JavaScript in large projects.md",
+    "Questions/React/How React handles the DOM compared to Vanilla JavaScript.md",
+    "Questions/React/React re-renders components when state changes.md",
+    "Questions/React/Data equals State in React.md",
+    "Questions/React",
+    "Resources/CodeSandbox.md",
+    "📚 Concepts/State.md",
+    "Resources",
+    "Lectures",
     "Untitled.base",
     "📚 Concepts/setInterval (JavaScript).md",
     "Questions/React re-renders components when state changes.md",
@@ -200,7 +214,6 @@
     "Questions/What we should do in Front-End.md",
     "Questions/Why do we avoid Vanilla JavaScript in large projects.md",
     "Questions/How React handles the DOM compared to Vanilla JavaScript.md",
-    "📚 Concepts/State.md",
     "📚 Concepts/Props.md",
     "📚 Concepts/Component.md",
     "📚 Concepts/Child Component.md",
@@ -214,9 +227,6 @@
     "🧩 Templates",
     "📚 Concepts",
     "🐞 Bugs & Fixes",
-    "🧠 Patterns",
-    "🧩 Snippets",
-    "💡 Learnings",
-    "🧪 Projects"
+    "🧠 Patterns"
   ]
 }
