@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why-Do-Front-End-Frameworks-Exist.md",
+                "file": "How-to-Split-a-UI-into-Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why-Do-Front-End-Frameworks-Exist"
+              "title": "How-to-Split-a-UI-into-Components"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How-to-Split-a-UI-into-Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for How-to-Split-a-UI-into-Components"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why-Do-Front-End-Frameworks-Exist.md",
+                "file": "How-to-Split-a-UI-into-Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Why-Do-Front-End-Frameworks-Exist"
+              "title": "Outgoing links from How-to-Split-a-UI-into-Components"
             }
           },
           {
@@ -153,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why-Do-Front-End-Frameworks-Exist.md",
+                "file": "How-to-Split-a-UI-into-Components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why-Do-Front-End-Frameworks-Exist"
+              "title": "Outline of How-to-Split-a-UI-into-Components"
             }
           },
           {
@@ -193,37 +194,38 @@
   },
   "active": "7491c8e3b03da180",
   "lastOpenFiles": [
-    "Questions/README.md",
+    "How-to-Split-a-UI-into-Components.md",
+    "Component-Categories.md",
+    "Rendering-Lists.md",
+    "Component Composition.md",
+    "The-Children-Prop-Reusable-Button.md",
+    "Derived State.md",
+    "Fundamentals-of-State-Management.md",
+    "JSX.md",
+    "What-is-Thinking-in-React.md",
+    "State-vs-Props.md",
+    "State.md",
+    "More-Thoughts-About-State-and-Guidelines.md",
+    "The-Mechanics-of-State.md",
+    "React.md",
+    "What-is-State-in-React.md",
+    "Separation-of-Concerns.md",
+    "Setting-Up-a-New-React-Project.md",
+    "Vanilla JavaScript Problems.md",
     "Why-Do-Front-End-Frameworks-Exist.md",
+    "Vanilla-JavaScript-Problems.md",
+    "MOC-React-Fundamentals.md",
+    "Props.md",
+    "The-Rules-of-JSX.md",
+    "Components.md",
+    "Questions/README.md",
     "Lectures/001-course-intro.md",
-    "Questions/React/What we should do in Front-End.md",
-    "Questions/React/Why do we avoid Vanilla JavaScript in large projects.md",
-    "Questions/React/How React handles the DOM compared to Vanilla JavaScript.md",
-    "Questions/React/React re-renders components when state changes.md",
-    "Questions/React/Data equals State in React.md",
     "Questions/React",
-    "Resources/CodeSandbox.md",
-    "📚 Concepts/State.md",
     "Resources",
     "Lectures",
     "Untitled.base",
-    "📚 Concepts/setInterval (JavaScript).md",
-    "Questions/React re-renders components when state changes.md",
-    "📚 Concepts/Re-render.md",
-    "Questions/Data equals State in React.md",
-    "Questions/What we should do in Front-End.md",
-    "Questions/Why do we avoid Vanilla JavaScript in large projects.md",
-    "Questions/How React handles the DOM compared to Vanilla JavaScript.md",
-    "📚 Concepts/Props.md",
-    "📚 Concepts/Component.md",
-    "📚 Concepts/Child Component.md",
     "Questions",
-    "💡 Learnings/01 - First React App (CodeSandbox).md",
-    "💡 Learnings/Ultimate React Course Overview.md",
-    "Templates/React Learning Template.md",
-    "Invalid date.md",
     "Templates",
-    "🧩 Templates/t.md",
     "🧩 Templates",
     "📚 Concepts",
     "🐞 Bugs & Fixes",
